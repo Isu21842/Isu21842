@@ -15,6 +15,10 @@ I graduated from the [University of California, Santa Barbara](https://www.ucsb.
 </div>
 
 My research experiences while at UC Santa Barbara include working in the labs of [Dr. Daniel Conroy-Beam](https://psych.ucsb.edu/people/faculty/daniel-conroy-beam) and [Dr. Hongbo Yu](https://psych.ucsb.edu/people/faculty/hongbo-yu). Additionally, I am a previous [BrainWave Fellow](https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2021) at Caltech's [Tianqiao and Chrissy Chen Institute for Neuroscience](https://neuroscience.caltech.edu/)🧠. Lastly, I was a 2021 participant in the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.
+
+```diff
+@@ Thank You! @@
+```
   
 
 <!--
