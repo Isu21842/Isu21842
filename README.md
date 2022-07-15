@@ -8,7 +8,7 @@ My name is Isaias and I'm a Research Coordinator at the [Polarization and Social
 
 ## 📘 Background
 
-I graduated from the [University of California, Santa Barbara](https://www.ucsb.edu/) in June 2022, where I majored in [Psychological & Brain Sciences](https://psych.ucsb.edu/). At UC Santa Barbara, I was a [McNair Scholar](https://mcnair.ucsb.edu/) and a [Goldwater Scholar](https://goldwaterscholarship.gov/).
+I graduated from the [University of California, Santa Barbara](https://www.ucsb.edu/) in June 2022, where I majored in [Psychological & Brain Sciences](https://psych.ucsb.edu/). At UC Santa Barbara I was a [McNair Scholar](https://mcnair.ucsb.edu/) and a [Goldwater Scholar](https://goldwaterscholarship.gov/).
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8t7lXR6Sep8zB6v7El/giphy.gif" width="140"/>
