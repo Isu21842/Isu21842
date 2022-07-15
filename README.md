@@ -1,8 +1,8 @@
-## 👋 Hi there!
+# 👋 Hi there!
 
 My name is Isaias and I'm a Research Coordinator at the [Polarization and Social Change Lab](https://www.pascl.stanford.edu/) at Stanford University. I am also a Research Affiliate at the [Center for the Science of Moral Understanding](https://www.moralunderstanding.com/). Broadly speaking, my research interests are in `intergroup psychology`, `political psychology`, and `moral cognition`. 
 
-## 📘 Background
+# 📘 Background
 
 I graduated from the [University of California, Santa Barbara](https://www.ucsb.edu/) in June 2022, where I majored in [Psychological & Brain Sciences](https://psych.ucsb.edu/). At UC Santa Barbara, I was a [McNair Scholar](https://mcnair.ucsb.edu/) and a [Goldwater Scholar](https://goldwaterscholarship.gov/).
 
